@@ -1,5 +1,4 @@
-
-public class ClassMain {
+class ClassMain {
 
 	public static void main(String[] args) {
 		//Vos données, variables, différents traitements…
